@@ -10,18 +10,16 @@ class Solution {
     public int longestSubarray(int[] nums, int limit) {
         int left = 0, right = 0;
         int len = 0, intervalSum = 0;
-        
-        PriorityQueue<Pair> minHp = new PriorityQueue<>((a, b) -> ( a.num - b.num));
-        PriorityQueue<Pair> maxHp = new PriorityQueue<>((a, b) -> (b.num - a.num));
+        TreeMap<Integer, Integer> map = new TreeMap<>();
 
         while(right < nums.length){
-            minHp.add(new Pair(nums[right], right));
-            maxHp.add(new Pair(nums[right], right));
+            map.put(nums[right], map.getOrDefault(nums[right], 0) +1);
 
-            while(maxHp.peek().num - minHp.peek().num > limit){
-                left = Math.min(maxHp.peek().ind, minHp.peek().ind)+1;
-                while(minHp.peek().ind < left) minHp.poll();
-                while(maxHp.peek().ind < left) maxHp.poll(); 
+            while(map.lastKey() - map.firstKey() > limit){
+                map.put(nums[left], map.getOrDefault(nums[left], 0) -1);
+                if(map.get(nums[left]) == 0)
+                    map.remove(nums[left]);
+                left++;
             }
 
             len = Math.max(len, right - left+1);
@@ -30,4 +28,9 @@ class Solution {
 
         return len;
     }
+
+    // 3 Approaches
+    // 1) Priority Queue
+    // 2) Deque
+    // 3) TreeMap
 }
