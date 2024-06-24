@@ -26,3 +26,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Hash Table
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+# Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+# Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+# Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+# Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
