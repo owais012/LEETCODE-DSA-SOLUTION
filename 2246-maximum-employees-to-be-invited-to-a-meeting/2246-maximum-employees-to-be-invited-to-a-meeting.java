@@ -33,6 +33,7 @@ class Solution {
         for(int i = 0; i < n; i++){
             if(vis[i] == false){
                 int len = 0;
+                    // Initialisation  //condition  //increment
                 for(int j = i; vis[j] == false; j = favorite[j]){
                     vis[j] = true;
                     len++;
