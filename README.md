@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Heap (Priority Queue)
 |  |
@@ -82,3 +85,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
