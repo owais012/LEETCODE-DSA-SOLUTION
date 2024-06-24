@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -59,10 +61,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2439-longest-cycle-in-a-graph) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
+# String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
+# Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
+# Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
