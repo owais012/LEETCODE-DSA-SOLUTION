@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 # Topological Sort
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 # Memoization
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 # Breadth-First Search
 |  |
 | ------- |
