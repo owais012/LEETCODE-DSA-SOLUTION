@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 # Queue
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2439-longest-cycle-in-a-graph) |
 # Breadth-First Search
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 # String
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
 | [0794-swim-in-rising-water](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0794-swim-in-rising-water) |
+| [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 # Shortest Path
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 # Binary Search
 |  |
 | ------- |
