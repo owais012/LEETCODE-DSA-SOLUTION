@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2439-longest-cycle-in-a-graph) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0794-swim-in-rising-water) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2439-longest-cycle-in-a-graph) |
 # Breadth-First Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 # String
 |  |
 | ------- |
