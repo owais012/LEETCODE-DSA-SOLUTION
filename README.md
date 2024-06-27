@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Hash Table
 |  |
 | ------- |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 # Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0514-freedom-trail) |
 | [0794-swim-in-rising-water](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0794-swim-in-rising-water) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0514-freedom-trail) |
 | [0794-swim-in-rising-water](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0794-swim-in-rising-water) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 # Binary Search Tree
 |  |
 | ------- |
