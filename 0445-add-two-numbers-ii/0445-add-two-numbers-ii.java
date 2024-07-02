@@ -9,85 +9,36 @@
  * }
  */
 
-class Solution{
-    public ListNode helper(ListNode head, ListNode newHead){
-        if(head == null) return head;
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        return reverseList(rec(reverseList(l1), reverseList(l2)));
+    }
+      public ListNode reverseList(ListNode head) {
+        if(head == null || head.next == null) return head;
+        
+        return helper(head, null);
+    }
+    
+    ListNode helper(ListNode head, ListNode newHead){
+       if(head == null) return newHead;
+        
         var next = head.next;
         head.next = newHead;
-
+        
         return helper(next, head);
     }
-    public ListNode reverse(ListNode head){
-        if(head == null || head.next == null)
-            return head;
 
-        ListNode prev = null, cur = head, n = head.next;
-
-        while(cur != null){
-            cur.next = prev;
-            prev = cur;
-            cur = n;
-            if(n != null)
-                n  = n.next;
-        }   
-        return  prev;
-    }
-
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        l1 = reverse(l1);
-        l2 = reverse(l2);
-
-        ListNode cur1 = l1, cur2 = l2;
-        int carry = 0;
-
-        ListNode dummyNode  = new ListNode(-1);
-        ListNode temp = dummyNode;
-
-        while(cur1 != null && cur2 != null){
-            int sum  = carry;
-            sum += cur1.val;
-            sum += cur2.val;
-
-            carry = sum/10;
-            ListNode newNode =  new ListNode(sum % 10);
-
-            temp.next = newNode;
-            temp = temp.next;
-
-            cur1 = cur1.next;
-            cur2 = cur2.next;
-        }
-        while(cur1 != null){
-            int sum = carry;
-            sum += cur1.val;
-            
-            carry = sum/10;
-            ListNode newNode =  new ListNode(sum % 10);
-
-            temp.next = newNode;
-            temp = temp.next;
-            cur1 = cur1.next;        
+    public ListNode rec(ListNode l1, ListNode l2) {
+        if (l1 == null && l2 == null) return null;
+        if (l1 == null) l1 = new ListNode(0);
+        if (l2 == null) l2 = new ListNode(0);
+        int value = l1.val + l2.val;
+        if (value > 9) {
+            value %= 10;
+            if (l1.next == null) l1.next = new ListNode(1);
+            else l1.next.val = l1.next.val + 1;
         }
         
-        while(cur2 != null){
-            int sum = carry;
-            sum += cur2.val;
-            
-            carry = sum/10;
-            ListNode newNode =  new ListNode(sum % 10);
-
-            temp.next = newNode;
-            temp = temp.next;
-            cur2 = cur2.next;        
-        }
-
-        if(carry > 0){
-            ListNode newNode =  new ListNode(carry);
-            temp.next = newNode;
-            temp = temp.next;
-        }
-
-        dummyNode = reverse(dummyNode.next);
-        return dummyNode;
+        return new ListNode(value, rec(l1.next, l2.next));
     }
 }
