@@ -10,6 +10,13 @@
  */
 
 class Solution{
+    public ListNode helper(ListNode head, ListNode newHead){
+        if(head == null) return head;
+        var next = head.next;
+        head.next = newHead;
+
+        return helper(next, head);
+    }
     public ListNode reverse(ListNode head){
         if(head == null || head.next == null)
             return head;
