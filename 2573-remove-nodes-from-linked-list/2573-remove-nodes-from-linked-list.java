@@ -9,31 +9,24 @@
  * }
  */
 class Solution {
-    public ListNode insertAtHead(int data, ListNode head){
-        if(head == null){
-            head = new ListNode(data);
-            return head;
-        }
-
-        ListNode newHead = new ListNode(data);
-        newHead.next = head;
-        return newHead;
-    }
-
     public ListNode removeNodes(ListNode head) {
+        Deque<ListNode> dq = new LinkedList<>();
         ListNode temp = head;
-        Stack<Integer> st = new Stack<>();
-
+        
         while(temp != null){
-            while(!st.isEmpty() && st.peek() < temp.val) st.pop();
-            st.push(temp.val);
+            while(!dq.isEmpty() && dq.peekLast().val < temp.val)
+                dq.pollLast();
+            
+            dq.add(temp);
             temp = temp.next;
         }
-
-        ListNode ans = null;
-        while(!st.isEmpty()){
-            ans = insertAtHead(st.pop(), ans);
+        ListNode dummyNode = new ListNode(-1);
+        temp = dummyNode;
+        
+        while(!dq.isEmpty()){
+            temp.next = dq.poll();
+            temp = temp.next;
         }
-        return ans;
+        return dummyNode.next;
     }
 }
