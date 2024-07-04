@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1072-next-greater-node-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1072-next-greater-node-in-linked-list) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
