@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1072-next-greater-node-in-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
