@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 ## Greedy
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Search Tree
