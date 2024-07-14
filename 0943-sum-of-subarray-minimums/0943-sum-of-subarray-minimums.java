@@ -5,7 +5,7 @@ class Solution{
         Stack<Integer> st = new Stack<>();
 
         for(int i = 0; i < arr.length; i++){
-            while(!st.isEmpty() && arr[st.peek()] >= arr[i])
+            while(!st.isEmpty() && arr[st.peek()] > arr[i])
                 st.pop();
             prev[i]= st.isEmpty() ? -1 : st.peek();
             st.push(i);
@@ -19,7 +19,7 @@ class Solution{
         Stack<Integer> st = new Stack<>();
 
         for(int i = arr.length-1; i >= 0; i--){
-            while(!st.isEmpty() && arr[st.peek()] > arr[i])
+            while(!st.isEmpty() && arr[st.peek()] >= arr[i])
                 st.pop();
 
     
@@ -34,7 +34,8 @@ class Solution{
     public int sumSubarrayMins(int[] arr) {
         int[] left = prevEle(arr);
         int[] right = nextEle(arr);
-
+        for(var val: left)
+            System.out.print(val+ " ");
         long res = 0;
         int mod = (int) 1e9 + 7;
 
