@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1072-next-greater-node-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1072-next-greater-node-in-linked-list) |
+| [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1293-three-consecutive-odds) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Math
@@ -277,10 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0450-delete-node-in-a-bst](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0450-delete-node-in-a-bst) |
+| [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0450-delete-node-in-a-bst](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0450-delete-node-in-a-bst) |
+| [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 ## Simulation
 |  |
 | ------- |
