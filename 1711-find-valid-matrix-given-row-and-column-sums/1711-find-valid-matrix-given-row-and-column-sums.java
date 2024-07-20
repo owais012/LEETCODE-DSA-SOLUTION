@@ -4,12 +4,11 @@ class Solution {
         int[][] mat = new int[n][m];
         
         for(int i = 0; i < n; i++){
-
             for(int j = 0;  j < m; j++){
                 if(rowSum[i] < colSum[j]){
                     mat[i][j] = rowSum[i];
                     colSum[j] -= rowSum[i];
-                    rowSum[i] = 0;
+                    break;
                 }else{
                     mat[i][j] = colSum[j];
                     rowSum[i] -= colSum[j];
