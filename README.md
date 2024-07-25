@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0943-sum-of-subarray-minimums) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1072-next-greater-node-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1072-next-greater-node-in-linked-list) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -279,10 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Tree
 |  |
