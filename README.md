@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Linked List
 |  |
 | ------- |
