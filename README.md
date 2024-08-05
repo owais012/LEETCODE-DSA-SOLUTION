@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1511-count-number-of-teams) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
