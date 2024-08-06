@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2727-number-of-senior-citizens](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2727-number-of-senior-citizens) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2793-count-the-number-of-complete-components](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2793-count-the-number-of-complete-components) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2793-count-the-number-of-complete-components) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
