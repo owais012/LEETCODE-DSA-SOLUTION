@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2727-number-of-senior-citizens](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2727-number-of-senior-citizens) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
