@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0450-delete-node-in-a-bst](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0450-delete-node-in-a-bst](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Simulation
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -378,4 +381,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
