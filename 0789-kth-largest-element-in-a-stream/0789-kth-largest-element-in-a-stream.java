@@ -1,44 +1,26 @@
 class KthLargest {
-    PriorityQueue<Integer> pq; 
-    private int kth;
-
+    PriorityQueue<Integer> pq;
+    int K;
     public KthLargest(int k, int[] nums) {
-        kth = k;
-        pq =  new PriorityQueue<>();
-        for(int num : nums)
-            add(num);
+        pq = new PriorityQueue<>();
+        K = k;
+        for(int i = 0; i < nums.length; i++){
+            pq.add(nums[i]);
+        }    
+
+        while(pq.size() > k){
+            pq.poll();
+        }
     }
     
     public int add(int val) {
         pq.add(val);
-        if(pq.size() > kth) pq.poll();
+        if(pq.size() > K){
+            pq.poll();
+        }
         return pq.peek();
     }
 }
-
-// class KthLargest {
-
-
-//    private PriorityQueue<Integer> pq;
-//    private int size;
-
-
-//    public KthLargest(int k, int[] nums) {
-//        size = k;
-//        pq = new PriorityQueue<>();
-//        for (int num : nums) {
-//            add(num);
-//        }
-//    }
-  
-//    public int add(int val) {
-//        pq.offer(val);
-//        if (pq.size() > size) {
-//            pq.poll();
-//        }
-//        return pq.peek();
-//    }
-// }
 
 /**
  * Your KthLargest object will be instantiated and called as such:
