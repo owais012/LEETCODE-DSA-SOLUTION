@@ -12,7 +12,7 @@ class Solution {
 
     public int robotSim(int[] c, int[][] o) {
 
-        HashSet<String> set = new HashSet<>();
+        TreeSet<String> set = new TreeSet<>();
         for(int i = 0;  i < o.length; i++){
             int x = o[i][0];
             int y = o[i][1];
