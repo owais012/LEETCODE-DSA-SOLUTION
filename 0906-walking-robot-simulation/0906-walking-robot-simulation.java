@@ -79,7 +79,6 @@ class Solution {
                     int x = robot.x;
                     boolean ok = true;
                     for(int i = 1; i <= k; i++){
-                        // System.out.println("Hellow");
                         if(set.contains((x+i) + "," +(robot.y))){
                             robot.x = x+i-1;
                             ok = false;;
