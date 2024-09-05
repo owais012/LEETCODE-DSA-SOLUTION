@@ -8,10 +8,11 @@ class Solution {
         long a = (mean * (n + m)) - b;
 
         int[] A = new int[n];
-        if (a <= 0 || a / n == 0 || (a / n > 6 || (a / n == 6 && a % n > 0)))
+        
+        if (a <= 0 || a / n == 0)
             return new int[] {};
 
-        // System.out.println("a -> " + a + " b -> " + b);
+
         Arrays.fill(A, (int) a / n);
 
         int extra = (int) a % n;
@@ -31,6 +32,7 @@ class Solution {
             }
         }
 
+        if(extra > 0) return new int[]{};
 
         return A;
     }
