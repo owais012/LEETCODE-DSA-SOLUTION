@@ -7,23 +7,17 @@ class Solution {
             a[i] = nums.get(i);
         }
 
-        // long[]dp = new long[n];
-        // for(int i = 0; i < n; i++){
-        //     for(int j = 0; j <= i; j++){
-        //         dp[i] = Math.max(dp[i], dp[j] + ((i-j)*a[j]));
-        //     }
-        // }
-
-        // return dp[n-1];
         long[]preMax = new long[n];
         preMax[0] = a[0];
 
         for(int i = 1; i < n; i++){
             preMax[i] = Math.max(preMax[i-1], a[i]);
         }
+        
         long res = 0;
         long prev = preMax[0];
         int idx = 0;
+
         for(int i = 1; i < n; i++){
             if(prev != preMax[i]){
                 res += prev*(i-idx);
