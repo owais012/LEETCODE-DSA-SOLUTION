@@ -34,7 +34,6 @@ class Solution {
             
             for(int i = up.col; i <= right.col; i++){
                 res[up.row][i] = temp.val;
-                System.out.println(res[up.row][i] + " row -> " + up.row + " col-> "+i );
                 temp = temp.next;
                 if(temp == null) break outerLoop;
             }
@@ -44,19 +43,14 @@ class Solution {
             for(int i = right.row; i < down.row; i++){
                 res[i][right.col] = temp.val;
                 temp = temp.next;
-                System.out.println(res[i][right.col] + " row -> " + i + " col-> "+ right.col );
-
                 if(temp == null) break outerLoop;
             }
 
-            // right.row += 1;
             right.col -= 1;
 
             for(int i = down.col; i> left.col; i--){
                 res[down.row][i] = temp.val;
                 temp = temp.next;
-                System.out.println(res[down.row][i] + " row -> " + down.row + " col-> "+i );
-
                 if(temp == null) break outerLoop;
 
             }
@@ -67,10 +61,7 @@ class Solution {
             for(int i = left.row; i>= up.row; i--){
                 res[i][left.col] = temp.val;
                 temp = temp.next;
-                System.out.println(res[i][left.col] + " row -> " + i + " col-> "+left.col );
-
                 if(temp == null) break outerLoop;
-
             }
 
             left.col += 1;
