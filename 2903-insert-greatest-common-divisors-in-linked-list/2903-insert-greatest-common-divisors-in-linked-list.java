@@ -22,8 +22,12 @@ class Solution {
 
         while(right != null){
             var gcd = new ListNode(GCD(left.val, right.val));
+            
+            // Altering the pointers between the left, right and (new Node gcd)
             gcd.next = right;
             left.next = gcd;
+
+            // Moving the left and right pointer appropriatly 
             left= right;
             right = right.next;
         }
