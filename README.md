@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1325-path-with-maximum-probability) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1511-count-number-of-teams) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## String
 |  |
