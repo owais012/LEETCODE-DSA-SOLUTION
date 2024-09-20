@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0214-shortest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -475,4 +476,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
