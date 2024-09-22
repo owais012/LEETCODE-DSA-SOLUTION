@@ -6,7 +6,8 @@ class Solution {
     public boolean isPossible(long time, long h, long[] w) {
         long height = 0;
         for (int i = 0; i < w.length; i++) {
-            long st = 0, e = h;
+            long st = 0, e = h; // i was making mistake here, instead of taking e = h, 
+            //I was making it time , there was no need of these , I am really stupid 
 
             while (st <= e) {
                 long mid = (st + e) / 2;
@@ -18,9 +19,7 @@ class Solution {
             }
             if (st > 0)
                 height += (st - 1);
-            // System.out.println((st - 1) + " h - > " + height);
         }
-        // System.out.println(height);
         return height >= h;
     }
 
@@ -31,13 +30,10 @@ class Solution {
         for (int i = 0; i < worker.length; i++) {
             w[i] = worker[i];
         }
-        System.out.println(isPossible(8589934, h, w));
 
         while (st <= e) {
             long mid = (st + e) / 2;
             if (isPossible(mid, h, w)) {
-                // System.out.println(mid);
-
                 e = mid - 1;
             } else {
                 st = mid + 1;
