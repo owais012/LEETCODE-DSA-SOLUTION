@@ -1,6 +1,5 @@
 class Solution {
     public boolean isValid(Map<Character, Integer> map1, Map<Character, Integer> map2){
-    
         for(var v: map1.entrySet()){
             if(!map2.containsKey(v.getKey()) || map2.get(v.getKey()) < v.getValue()) return false;
         }
