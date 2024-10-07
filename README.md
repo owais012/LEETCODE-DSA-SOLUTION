@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Dynamic Programming
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2573-remove-nodes-from-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search Tree
 |  |
 | ------- |
