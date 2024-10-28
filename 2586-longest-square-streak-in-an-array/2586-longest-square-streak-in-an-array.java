@@ -2,7 +2,7 @@ class Solution {
     public int longestSquareStreak(int[] nums) {
         //bring all the number in the base form 
         int res = 0, n = nums.length;
-        HashSet<Integer> set = new HashSet<>(); 
+        TreeSet<Integer> set = new TreeSet<>(); 
 
         for(var v : nums){
             set.add(v);
