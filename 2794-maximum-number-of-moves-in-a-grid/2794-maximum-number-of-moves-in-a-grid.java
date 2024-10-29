@@ -9,24 +9,24 @@ class Solution {
         }
     }
 
-    public boolean isValid(int r, int c, int n, int m) {
+    public boolean isValidCell(int r, int c, int n, int m) {
         return r >= 0 && c >= 0 && r < n && c < m;
     }
 
-    public void visitAllNodes(Queue<Node> q, Node cur, int[][] grid, boolean visited[][]) {
+    public void visitAllNodes(Queue<Node> queue, Node curNode, int[][] grid, boolean visited[][]) {
         int n = grid.length, m = grid[0].length;
 
-        int[] dr = new int[] { -1, 0, 1 };
-        int[] dc = new int[] { 1, 1, 1 };
+        int[] drow = new int[] { -1, 0, 1 };
+        int[] dcol = new int[] { 1, 1, 1 };
 
         for (int i = 0; i < 3; i += 1) {
-            int nrow = cur.row + dr[i];
-            int ncol = cur.col + dc[i];
+            int newRow = curNode.row + drow[i];
+            int newCol = curNode.col + dcol[i];
 
-            if (isValid(nrow, ncol, n, m) && !visited[nrow][ncol]
-                    && grid[cur.row][cur.col] < grid[nrow][ncol]) {
-                q.add(new Node(nrow, ncol, cur.len + 1));
-                visited[nrow][ncol] = true;
+            if (isValidCell(newRow, newCol, n, m) && !visited[newRow][newCol]
+                    && grid[curNode.row][curNode.col] < grid[newRow][newCol]) {
+                queue.add(new Node(newRow, newCol, curNode.len + 1));
+                visited[newRow][newCol] = true;
             }
         }
     }
@@ -34,18 +34,18 @@ class Solution {
     public int getMaxPath(int row, int col, int[][] grid) {
         int n = grid.length, m = grid[0].length;
 
-        Queue<Node> q = new LinkedList<>();
-        q.add(new Node(row, col, 0));
+        Queue<Node> queue = new LinkedList<>();
+        queue.add(new Node(row, col, 0));
         int res = 0;
 
         boolean[][] visited = new boolean[n][m];
 
-        while (!q.isEmpty()) {
+        while (!queue.isEmpty()) {
 
-            var cur = q.poll();
-            res = Math.max(res, cur.len);
+            var curNode = queue.poll();
+            res = Math.max(res, curNode.len);
             
-            visitAllNodes(q, cur, grid, visited);
+            visitAllNodes(queue, curNode, grid, visited);
         }
 
         return res;
@@ -55,8 +55,8 @@ class Solution {
         // it is as simple as another graph problem
 
         int res = 0;
-        for (int i = 0; i < grid.length; i += 1) {
-            res = Math.max(res, getMaxPath(i, 0, grid));
+        for (int startNode = 0; startNode < grid.length; startNode += 1) {
+            res = Math.max(res, getMaxPath(startNode, 0, grid));
         }
 
         return res;
