@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1325-path-with-maximum-probability) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1511-count-number-of-teams) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1923-sentence-similarity-iii) |
 | [3195-separate-black-and-white-balls](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
