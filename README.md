@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
 ## Greedy
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
 ## Binary Search Tree
 |  |
 | ------- |
