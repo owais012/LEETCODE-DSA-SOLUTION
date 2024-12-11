@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
 ## Greedy
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
