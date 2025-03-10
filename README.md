@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -584,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
