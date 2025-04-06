@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1036-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1072-next-greater-node-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1072-next-greater-node-in-linked-list) |
 | [1196-filling-bookcase-shelves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1196-filling-bookcase-shelves) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1036-rotting-oranges](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
