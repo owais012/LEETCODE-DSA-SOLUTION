@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2573-remove-nodes-from-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
 | ------- |
