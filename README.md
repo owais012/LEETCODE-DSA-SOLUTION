@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1240-stone-game-ii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1511-count-number-of-teams) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0203-remove-linked-list-elements) |
+| [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2573-remove-nodes-from-linked-list) |
 | [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
@@ -606,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
