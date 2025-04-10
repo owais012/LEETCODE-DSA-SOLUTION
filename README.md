@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0870-magic-squares-in-grid) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2573-remove-nodes-from-linked-list) |
