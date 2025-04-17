@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2411-spiral-matrix-iv) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
