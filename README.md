@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0812-rotate-string) |
