@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Bit Manipulation
 |  |
 | ------- |
