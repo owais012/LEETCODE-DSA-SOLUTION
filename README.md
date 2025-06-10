@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3195-separate-black-and-white-balls) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Dynamic Programming
 |  |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Number Theory
 |  |
 | ------- |
