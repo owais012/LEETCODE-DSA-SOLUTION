@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0040-combination-sum-ii) |
+| [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -639,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
