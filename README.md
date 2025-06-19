@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2411-spiral-matrix-iv) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2232-adding-spaces-to-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3195-separate-black-and-white-balls) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2232-adding-spaces-to-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
