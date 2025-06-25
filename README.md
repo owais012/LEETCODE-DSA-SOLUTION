@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3201-distribute-candies-among-children-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3201-distribute-candies-among-children-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Bit Manipulation
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3201-distribute-candies-among-children-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3201-distribute-candies-among-children-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Segment Tree
 |  |
@@ -654,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
