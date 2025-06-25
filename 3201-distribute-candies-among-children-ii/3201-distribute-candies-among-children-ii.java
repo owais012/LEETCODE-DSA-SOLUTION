@@ -3,11 +3,11 @@ class Solution {
         long res = 0;
 
         for(int i = 0; i <= Math.min(limit, n); i+= 1){
+
             int b_start = Math.max(0, Math.min(limit, n-i-limit));
 
-            int b_end = Math.min(n, Math.min(limit, n-i));
+            int b_end = Math.min(limit, n-i);
 
-            // System.out.println(i +" "+ b_start + " " + b_end);
             if(n-i-b_end <= limit)
                 res += (b_end-b_start+1);
         }   
