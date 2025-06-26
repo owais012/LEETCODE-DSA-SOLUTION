@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2232-adding-spaces-to-a-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2727-number-of-senior-citizens) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2586-longest-square-streak-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2755-extra-characters-in-a-string) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
 |  |
 | ------- |
