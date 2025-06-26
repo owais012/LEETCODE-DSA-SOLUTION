@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1250-longest-common-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
