@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0152-maximum-product-subarray) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0870-magic-squares-in-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1036-rotting-oranges) |
