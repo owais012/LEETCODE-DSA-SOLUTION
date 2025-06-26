@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
 | [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0152-maximum-product-subarray) |
@@ -664,5 +666,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
