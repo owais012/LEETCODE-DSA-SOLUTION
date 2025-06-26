@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0135-candy) |
 | [0624-maximum-distance-in-arrays](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
