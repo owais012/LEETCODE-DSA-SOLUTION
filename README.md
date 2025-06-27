@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1078-remove-outermost-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1072-next-greater-node-in-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1818-maximum-score-from-removing-substrings) |
