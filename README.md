@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0870-magic-squares-in-grid) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
