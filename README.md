@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2502-sort-the-people) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1923-sentence-similarity-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2600-maximum-tastiness-of-candy-basket) |
