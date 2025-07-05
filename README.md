@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3201-distribute-candies-among-children-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Bit Manipulation
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2573-remove-nodes-from-linked-list) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
 |  |
