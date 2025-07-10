@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3651-transformed-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3651-transformed-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3195-separate-black-and-white-balls) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Linked List
 |  |
 | ------- |
