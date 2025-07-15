@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
+| [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0943-sum-of-subarray-minimums) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
