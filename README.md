@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
