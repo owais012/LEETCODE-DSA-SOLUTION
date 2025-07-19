@@ -12,6 +12,7 @@ public:
         for(auto cur : nums){
             if(map.count(cur))
                 continue;
+                
             auto left = map.find(cur-1);
             auto right = map.find(cur+1);
 
@@ -19,7 +20,7 @@ public:
             //for righ, we only consider if , cur+1 is the first element, in that subsequence
             int leftMost = (left != map.end() && left->second.second == cur-1) ? left->second.first : cur;
             int rightMost = (right != map.end() && right->second.first == cur+1) ? right->second.second:cur;
-            cout << cur  << " " << leftMost<< " " << rightMost << endl;
+            // cout << cur  << " " << leftMost<< " " << rightMost << endl;
             map[cur] = {leftMost, rightMost};
             map[leftMost].second = rightMost;
             map[rightMost].first = leftMost;
