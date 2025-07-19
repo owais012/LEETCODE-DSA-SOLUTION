@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
 ## Rolling Hash
