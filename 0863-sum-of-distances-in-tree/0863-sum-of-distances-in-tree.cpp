@@ -19,7 +19,6 @@ public:
         int parAns = 0;
         if(par != -1){
             parAns = ans[par]-(sum[node]+subSum[node]) + (subSum[0] - subSum[node]);
-            // cout << node << " " << par<< " "<< ans[par] << " "<<endl;
         }
         ans[node] = parAns+sum[node];
         for(auto nb: adj[node]){
@@ -28,7 +27,6 @@ public:
             }
         }
     }   
-
     
     vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
         vector<vector<int>> adj(n);
@@ -41,17 +39,7 @@ public:
         vector<int>ans(n,0);
         vector<int>subSum(n, 1);
         dfs(0, adj, sum, subSum, -1);
-
         dfs2(0, adj, ans, sum, subSum, -1);
-        for(auto val: sum)
-            cout << val << " ";
-        cout << endl;
-        for(auto val: subSum)
-            cout << val << " ";
-        cout << endl;
-        for(auto val: ans)
-            cout << val << " ";
-        cout << endl;
         return ans;
     }
 };
