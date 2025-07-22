@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1813-maximum-erasure-value) |
 | [1923-sentence-similarity-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2479-meeting-rooms-iii) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
