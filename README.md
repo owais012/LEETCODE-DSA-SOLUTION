@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2411-spiral-matrix-iv) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2479-meeting-rooms-iii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2479-meeting-rooms-iii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2035-count-sub-islands) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
