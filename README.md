@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0118-pascals-triangle) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0063-unique-paths-ii) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 ## Combinatorics
 |  |
