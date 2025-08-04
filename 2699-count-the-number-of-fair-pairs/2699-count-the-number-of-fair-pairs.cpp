@@ -7,8 +7,6 @@ public:
         while(left < right){
             while(left<right && (nums[left]+nums[right]) <= target)
                 left++;
-
-            cout<<right << " " << left <<" " << endl;
             cnt += (right-left);
             right--;
         }
@@ -23,13 +21,13 @@ public:
         //APPROACH 1. BINARY SEARCH
 
         sort(nums.begin(), nums.end());
-        for(int i = 0; i < n; i++){
-            auto left = lower_bound(nums.begin()+i+1, nums.end(), lower-nums[i])-nums.begin();
-            auto right = upper_bound(nums.begin()+i+1, nums.end(), upper-nums[i])-nums.begin();
+        // for(int i = 0; i < n; i++){
+        //     auto left = lower_bound(nums.begin()+i+1, nums.end(), lower-nums[i])-nums.begin();
+        //     auto right = upper_bound(nums.begin()+i+1, nums.end(), upper-nums[i])-nums.begin();
             
-            if(left==nums.size()) continue;
-            cnt += (right- left); 
-        }
+        //     if(left==nums.size()) continue;
+        //     cnt += (right- left); 
+        // }
 
         // return cnt;
 
