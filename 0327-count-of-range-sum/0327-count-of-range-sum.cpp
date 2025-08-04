@@ -2,7 +2,7 @@
 
 class Solution {
 public:
-    ll lowerCnt = 0, upperCnt = 0, u, l;
+    ll lowerCnt = 0, upperCnt = 0, u, l, cnt = 0;
 
     void merge(int start, int mid, int end, vector<ll>&prefix){
         int i = start, j = mid, k = 0;
@@ -33,23 +33,18 @@ public:
     }
 
     void divideAndMerge(int start, int end, vector<ll>&prefix){
-        
         if(start < end){
             int mid = start+(end-start)/2;
             divideAndMerge(start, mid, prefix);
             divideAndMerge(mid+1, end, prefix);
             int j = mid+1;
-
+            int k = mid+1;
             for(int i = start; i <= mid; i++){
                 while(j<=end && (prefix[j] - prefix[i]) <= u)
                     j++;
-                upperCnt += (end-j+1);
-            }
-            j=mid+1;
-            for(int i = start; i <= mid; i++){
-                while(j<=end && (prefix[j] - prefix[i]) < l)
-                    j++;
-                lowerCnt += (end-j+1);
+                while(k<=end && (prefix[k] - prefix[i]) < l)
+                    k++;
+                cnt += (j-k);
             }
             merge(start, mid+1, end, prefix);
         }
@@ -68,13 +63,12 @@ public:
         //cnt2 {sum >= lower}
         //res = cnt2-cnt1;
 
-
         for(int i =1; i <= n; i++){
             prefix[i] = prefix[i-1]+ ((ll) nums[i-1]);
         }
 
         divideAndMerge(0,n,prefix);
 
-        return lowerCnt - upperCnt;
+        return cnt;
     }       
 };
