@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
 | [1511-count-number-of-teams](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1511-count-number-of-teams) |
 ## Counting
 |  |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
 |  |
@@ -761,9 +765,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3201-distribute-candies-among-children-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
