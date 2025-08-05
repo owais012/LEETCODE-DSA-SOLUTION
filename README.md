@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0567-permutation-in-string) |
@@ -679,11 +681,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1325-path-with-maximum-probability) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
