@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
 |  |
