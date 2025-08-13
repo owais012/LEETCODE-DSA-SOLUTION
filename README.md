@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0445-add-two-numbers-ii) |
 | [0650-2-keys-keyboard](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0650-2-keys-keyboard) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/owais012/LEETCODE-DSA-SOLUTION/tree/master/1951-find-the-winner-of-the-circular-game) |
